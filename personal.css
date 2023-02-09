@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.banner-text h1{
+font-size: 50px;
+
+    }
+#header-banner{
+    background-image: url(images/banner/banner3.png);
+    /* width: 100%; */
+    height: 100vh; 
+    background-size: cover;
+    display: flex;
+    justify-content: right;
+   
+   
+}
+
+.banner-text{
+    text-align: right;
+    color: white;
+    width: 500px;
+    padding-top: 110px;
+    margin-right: 140px;
+   
+}
+p{
+    margin-bottom: 40px;
+}
+.btn {
+    background: white;
+    text-decoration: none;
+    color: #0062e2;
+    font-size: 17px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    }
+    img{
+        height: 56vh;
+        
+        
+        
+    }
+    .about{
+        display: flex;
+        background-color: peachpuff;
+        margin-top: 50px;
+        width: 70%;
+    margin-left: 190px;
+   
+    }
+    .about-text{
+       margin-left: 150px;
+       padding-top: 40px;
+       
+    }
+    .about-text h2{
+        padding-bottom: 10px;
+    }
+    .about-text p{
+        width: 50%;
+    }
+    .text-style{
+        display: flex;
+        
+        
+    }
+    .text-color{
+        font-weight: bold;
+    }
+    .plan h1{
+        padding-top: 50px;
+        font-size: 30px;
+        text-align: center;
+    }
+.plan-element{
+    display: flex;
+    justify-content: space-between;
+        width: 70%;
+    margin-left: 190px;
+}
+.plan-element img{
+    height: 80px;
+    
+}
+.about-text li{
+    padding-bottom: 6px;
+   
+}
+.image{
+    background-image:linear-gradient(#0069e2, #0000ff24), url(images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35vh;
+    margin-top: 45px;
+        width: 70%;
+    margin-left: 190px;
+    border-radius: 8px;
+}
+.image h1{
+    color: white;
+    font-size: 35px;
+    width: 60%;
+    margin-left: 50px;
+    padding-top: 45px;
+}
+.image a{
+    margin-left: 50px;
+}
+#footer{
+    margin-top: 100px;
+    background-color: black;
+    /* height: 250px; */
+    display: flex;
+}
+.footer-text{
+    color: white;
+}
+#footer img{
+    /* displ */
+    height: 40px;
+}
+.footer-btn{
+    background: #0062e2;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+   
+}
+.email-button{
+    background: black;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 15px 20px;
+   margin-bottom: 30px;
+    
+}
+#footer h2{
+    color: white;
+}
+.footer-style{
+    width: 60%;
+    display: flex;
+   margin-bottom: 60px;
+    margin-left:190px ;
+    margin-top: 60px;
+}
