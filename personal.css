@@ -86,8 +86,8 @@ p{
     height: 80px;
     
 }
-.about-text li{
-    padding-bottom: 6px;
+.failure-text li{
+    padding-bottom: 10px;
    
 }
 .image{
@@ -152,4 +152,21 @@ p{
    margin-bottom: 60px;
     margin-left:190px ;
     margin-top: 60px;
+}
+.failure{
+    display: flex;
+    margin-top: 70px;
+}
+.failure img{
+    margin-left: 170px;
+    height: 90vh;
+   
+}
+.failure-text{
+    margin-top: 150px;
+    margin-left: 30px;
+    
+}
+.failure-text h1{
+    font-size: 30px;
 }
